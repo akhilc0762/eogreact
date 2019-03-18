@@ -1,3 +1,4 @@
-## Create React App Visualization
+Instructions:
 
-Read more about this assessment here
+# yarn install
+# yarn start
